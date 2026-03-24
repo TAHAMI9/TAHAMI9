@@ -31,10 +31,6 @@ I’m MD TAHAMIN ISLAM(MAHIN)
 * Build impactful **AI projects**
 * Contribute to **Open Source**
 
-## 📊 GitHub Stats
-
-![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
 ## 📫 Connect With Me
 * Email: [thahaminislam@gmail.com]
 ⭐ *Always learning, building, and improving.*
